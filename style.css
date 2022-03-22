@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    color: white;
+}
+.container div {
+    width: 300px;
+    background-color: black;
+}
+div {
+    background-color: antiquewhite;
+}
